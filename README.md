@@ -1,5 +1,5 @@
 # House Remodel
 
 
-- [DEN Remodel ](assers/den/README.md)
+- [DEN Remodel ](assets/den/README.md)
 
