@@ -1,8 +1,12 @@
 # AC - Downstairs Remodel
 
 - replace Air flow handler
+- build new air return
+- build new air outlet (TBD)
+- rerun external compressor power cable with new 10-2 AWD
+- rerun control cable (5 wire) (60ft)
 - replace external compressor
-- rerun linesets and cap
+- rerun line sets and cap
 
 ![AC](./IMG20230711074515.jpg)
 ![AC](./IMG20230719202828.jpg)
